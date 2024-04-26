@@ -1,0 +1,334 @@
+{
+    "question": [
+        "Which company developed the first commercial microprocessor?",
+        "What does \\\"www\\\" stand for in a website's URL?",
+        "What year was the first iPhone released?",
+        "What does the abbreviation \\\"PDF\\\" stand for?",
+        "What is the full form of \\\"URL\\\"?",
+        "Which computer hardware company produces the GeForce graphics cards?",
+        "What is the full form of \\\"USB\\\" in computing?",
+        "What does the acronym \\\"SSD\\\" stand for in computing?",
+        "What does the term \\\"AR\\\" stand for in technology?",
+        "Which company developed the popular web browser \\\"Firefox\\\"?\"",
+        "Which company developed the \\\"Windows\\\" operating system?",
+        "Total bits used by the IPv6 address is",
+        "Identify the language which is mainly used for Artificial Intelligence",
+        "Why is a firewall used in a computer?",
+        "The full form of DOM is?",
+        "How many levels are there in the architecture of the database?",
+        "Among the following which is not a database management software",
+        "Identify the total standard color names that HTML supports.",
+        "UNIX is written in which language?",
+        "Identify the different features of Big Data Analytics.",
+        "Which of the following is an extension of image file?",
+        "The main memory of a computer system is?",
+        "Identify among the following servers which allow LAN users to share data.",
+        "SSL stands for",
+        "Which of the following is not a SQL command?",
+        "OCR stands for",
+        "Testing of program\u2019s corporate is known as?",
+        "Information in computer read-only memory stored by ?",
+        "Device driver required in?",
+        "The total view of a database is known as?",
+        "Which of the following commands in UNIX is used to send a signal?",
+        "Which of the following is known as an uninterruptible unit?",
+        "The standard length of the MAC address is",
+        "Which of the following is a single-user operating system?",
+        "Choose among the following, which is the most common internet protocol.",
+        "Another name of reading operation in?"
+    ],
+    "options": [
+        [
+            "A. IBM",
+            "B. Intel",
+            "C. Microsoft",
+            "D. Apple"
+        ],
+        [
+            "A. World Web Wide",
+            "B. World Wide Web",
+            "C. Web World Wide",
+            "D. Wide Web World"
+        ],
+        [
+            "A. 2005",
+            "B. 2007",
+            "C. 2010",
+            "D. 2012"
+        ],
+        [
+            "A. Portable Document Format",
+            "B. Personal Data File",
+            "C. Print Document File",
+            "D. Page Description Format"
+        ],
+        [
+            "A. Uniform Resource Locator",
+            "B. Unified Resource Locator",
+            "C. Universal Resource Link",
+            "D. Uniform Retrieval Link"
+        ],
+        [
+            "A. AMD",
+            "B. Intel",
+            "C. NVIDIA",
+            "D. ASUS"
+        ],
+        [
+            "A. Universal Serial Bus",
+            "B. Unified System Buffer",
+            "C. Ultra Speed Broadband",
+            "D. User System Bridge"
+        ],
+        [
+            "A. Solid State Drive",
+            "B. Super Speedy Device",
+            "C. Software Storage Device",
+            "D. System Security Daemon"
+        ],
+        [
+            "A. Advanced Robotics",
+            "B. Augmented Reality",
+            "C. Artificial Intelligence",
+            "D. Application Requirements"
+        ],
+        [
+            "A. Google",
+            "B. Microsoft",
+            "C. Apple",
+            "D. Mozilla"
+        ],
+        [
+            "A. Apple",
+            "B. Microsoft",
+            "C. Google",
+            "D. IBM"
+        ],
+        [
+            "A. 64 bit",
+            "B. 256 bit",
+            "C. 128 bit",
+            "D. 32 bit"
+        ],
+        [
+            "A. Java",
+            "B. J2EE",
+            "C. Prolog",
+            "D. C"
+        ],
+        [
+            "A. Monitoring",
+            "B. Data transmission",
+            "C. Authentication",
+            "D. Security"
+        ],
+        [
+            "A. Document-oriented memory",
+            "B. Document object model",
+            "C. Document object memory",
+            "D. None"
+        ],
+        [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5"
+        ],
+        [
+            "A. MySQL",
+            "B. COBOL",
+            "C. Sybase",
+            "D. Oracle"
+        ],
+        [
+            "A. 30",
+            "B. 70",
+            "C. 120",
+            "D. 140"
+        ],
+        [
+            "A. C#",
+            "B. C++",
+            "C. C",
+            "D. .Net"
+        ],
+        [
+            "A. Open source",
+            "B. Data recovery",
+            "C. Scalability",
+            "D. All of the above"
+        ],
+        [
+            "A. .mkv",
+            "B. .gif",
+            "C. .txt",
+            "D. .vdf"
+        ],
+        [
+            "A. Non-volatile",
+            "B. Volatile",
+            "C. Restricted",
+            "D. Unrestricted"
+        ],
+        [
+            "A. Communication server",
+            "B. Point server",
+            "C. Data server",
+            "D. File server"
+        ],
+        [
+            "A. Secure socket layer",
+            "B. Secure secret level",
+            "C. Secure system level",
+            "D. Section security layer"
+        ],
+        [
+            "A. DELETE",
+            "B. ORDER BY",
+            "C. SELECT",
+            "D. WHERE"
+        ],
+        [
+            "A. Online computer retrieval",
+            "B. Office cash receiver",
+            "C. Optical character reader",
+            "D. Optical card reader"
+        ],
+        [
+            "A. System testing",
+            "B. Isolation testing",
+            "C. Pilot testing",
+            "D. Unit-testing"
+        ],
+        [
+            "A. Engineer",
+            "B. Programmer",
+            "C. Manufacturer",
+            "D. User"
+        ],
+        [
+            "A. Register",
+            "B. Main memory",
+            "C. Disk",
+            "D. Cache"
+        ],
+        [
+            "A. Physical view",
+            "B. Internal view",
+            "C. Conceptual view",
+            "D. External view"
+        ],
+        [
+            "A. Send",
+            "B. Kill",
+            "C. Sigsned",
+            "D. None"
+        ],
+        [
+            "A. Single",
+            "B. Static",
+            "C. Atomic",
+            "D. None"
+        ],
+        [
+            "A. 16 bits",
+            "B. 48 bits",
+            "C. 32 bits",
+            "D. 8 bits"
+        ],
+        [
+            "A. Windows",
+            "B. Ms-DOS",
+            "C. MAC",
+            "D. None"
+        ],
+        [
+            "A. PPP",
+            "B. FTP",
+            "C. TCP/IP",
+            "D. SMTP"
+        ],
+        [
+            "A. Store operations",
+            "B. Access operation",
+            "C. Fetch operation",
+            "D. Control operation"
+        ]
+    ],
+    "answer": [
+        2,
+        2,
+        2,
+        1,
+        1,
+        3,
+        1,
+        1,
+        2,
+        4,
+        2,
+        3,
+        3,
+        4,
+        2,
+        2,
+        2,
+        4,
+        3,
+        4,
+        2,
+        2,
+        4,
+        1,
+        1,
+        4,
+        4,
+        3,
+        3,
+        3,
+        2,
+        3,
+        2,
+        2,
+        4,
+        3
+    ],
+    "difficulty": [
+        "Easy",
+        "Easy",
+        "Easy",
+        "Easy",
+        "Easy",
+        "Medium",
+        "Easy",
+        "Easy",
+        "Easy",
+        "Easy",
+        "Easy",
+        "Hard",
+        "Medium",
+        "Easy",
+        "Medium",
+        "Hard",
+        "Medium",
+        "Hard",
+        "Medium",
+        "Medium",
+        "Easy",
+        "Easy",
+        "Medium",
+        "Hard",
+        "Hard",
+        "Medium",
+        "Medium",
+        "Hard",
+        "Medium",
+        "Hard",
+        "Hard",
+        "Hard",
+        "Hard",
+        "Medium",
+        "Medium",
+        "Medium"
+    ]
+}

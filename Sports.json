@@ -1,0 +1,190 @@
+{
+    "question": [
+        "What is the most popular sport in the world?",
+        "Which country won the FIFA World Cup in 2018?",
+        "First Test Captain of India ?",
+        "India entered World Test Cricket in",
+        "Test Cricket celebrated 100 years in the year",
+        "In year 2015 IPL held its which edition",
+        "Who has scored over 400 runs in a single innings?",
+        "Ryder cup is related to which sports?",
+        "In which year was the Olympic Symbol designed?",
+        "Who is the only player to cross the 7000 run mark in Women\u2019s One Day International ?",
+        "In which year, the first Kabaddi World Cup was held?",
+        "Which country has won the most ICC Cricket World Cup titles?",
+        "In which year did India win their first Cricket World Cup?",
+        "Who was the first cricketer to score a century in all three formats of international cricket (Test, ODI, T20I)?",
+        "Which player has won the ICC Cricketer of the Year award the most times?",
+        "Who won the WPL 2024 ?",
+        "Which of these countries has never won the Cricket World Cup ?",
+        "Which Indian athlete won a silver medal in the men's javelin throw at the 2020 Tokyo Olympics?",
+        "Who is the first Indian woman cricketer to score a century in T20 Internationals?",
+        "Js"
+    ],
+    "options": [
+        [
+            "A. Football",
+            "B. Basketball",
+            "C. Tennis",
+            "D. Cricket"
+        ],
+        [
+            "A. Brazil",
+            "B. Germany",
+            "C. France",
+            "D. Argentina"
+        ],
+        [
+            "A. Palwankar Baloo",
+            "B. Palwankar Vithal",
+            "C. Vijay Hazare",
+            "D. C.K. Nayudu"
+        ],
+        [
+            "A. 1932",
+            "B. 1950",
+            "C. 1877",
+            "D. 1847"
+        ],
+        [
+            "A. 1877",
+            "B. 1977",
+            "C. 1875",
+            "D. 1774"
+        ],
+        [
+            "A. 5th",
+            "B. 6th",
+            "C. 7th",
+            "D. 8th"
+        ],
+        [
+            "A. Brain Lara",
+            "B. Sachin Tendulkar",
+            "C. Sehwag",
+            "D. Bradman"
+        ],
+        [
+            "A. Polo",
+            "B. Golf",
+            "C. Badminton",
+            "D. Tennis"
+        ],
+        [
+            "A. 1915",
+            "B. 1912",
+            "C. 1920",
+            "D. 1924"
+        ],
+        [
+            "A. Smriti Mandhana",
+            "B. Mithali Raj",
+            "C. Hayley Mattews",
+            "D. Ellyse Perry"
+        ],
+        [
+            "A. 2002",
+            "B. 2004",
+            "C. 2006",
+            "D. 2008"
+        ],
+        [
+            "A. Australia",
+            "B. India",
+            "C. West Indies",
+            "D. England"
+        ],
+        [
+            "A. 1982",
+            "B. 1973",
+            "C. 1998",
+            "D. 1983"
+        ],
+        [
+            "A. Chris Gayle",
+            "B. Brendon McCullum",
+            "C. AB de Villiers",
+            "D. Rohit Sharma"
+        ],
+        [
+            "A. Ricky Ponting",
+            "B. Virat Kohli",
+            "C. AB de Villiers",
+            "D. Jacques Kallis"
+        ],
+        [
+            "A. Royal Challenger Banglore",
+            "B. Mumbai Indian",
+            "C. Delhi Capitals",
+            "D. UP Warriors"
+        ],
+        [
+            "A. England",
+            "B. West Indies",
+            "C. Pakistan",
+            "D. South Africa"
+        ],
+        [
+            "A. Neeraj Chopra",
+            "B. Shivpal Singh",
+            "C. Annu Rani",
+            "D. Devendra Jhajharia"
+        ],
+        [
+            "A. Mithali Raj",
+            "B. Harmanpreet Kaur",
+            "C. Smriti Mandhana",
+            "D. Jhulan Goswami"
+        ],
+        [
+            "A. dsa",
+            "B. cs",
+            "C. sa",
+            "D. as"
+        ]
+    ],
+    "answer": [
+        1,
+        3,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        4,
+        2,
+        2,
+        1,
+        4,
+        1,
+        2,
+        1
+    ],
+    "difficulty": [
+        "Easy",
+        "Easy",
+        "Hard",
+        "Hard",
+        "Hard",
+        "Medium",
+        "Easy",
+        "Medium",
+        "Hard",
+        "Medium",
+        "Medium",
+        "Easy",
+        "Easy",
+        "Medium",
+        "Medium",
+        "Easy",
+        "Easy",
+        "Easy",
+        "Medium",
+        "Easy"
+    ]
+}

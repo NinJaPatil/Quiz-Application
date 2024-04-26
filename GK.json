@@ -1,0 +1,316 @@
+{
+    "question": [
+        "Which one of the following river flows between Vindhyan and Satpura ranges?",
+        "Who among the following wrote Sanskrit grammar?",
+        "The metal whose salts are sensitive to light is?",
+        "Patanjali is well known for the compilation of",
+        "Which Indian city is the capital of two states ?",
+        "Which is the smallest state of India ?",
+        "How many rings appear on the Olympic flag ?",
+        "Which is the longest river in the world ?",
+        "Who is known as Father of Indian Constitution ?",
+        "Who painted the Mona Lisa ?",
+        "Which is the 2nd tallest mountain in the world ?",
+        "Which planet is known as the Morning Star ?",
+        "Who was the second person to step on the Moon ?",
+        "Volcanic eruption do not occur in the ?",
+        "Indus river originates in",
+        "Which of the following Himalayan regions is called \"Shivalik's\"?",
+        "The green planet in the solar system is?",
+        "To scale Mount Everest, mountaineers need to go to",
+        "Which among the following peaks is NOT located in Nepal Himalayas ?",
+        "Who is the father of Geometry?",
+        "Who was known as Iron man of India?",
+        "Who is the Flying Sikh of India?",
+        "Which is India\u2019s first super computer?",
+        "Who was India\u2019s first Deputy Prime Minister?",
+        "Panama Canal linked which 2 oceans?",
+        "Which is smallest planet in our solar system?",
+        "How many players are there in an ice hockey team?",
+        "Pakistan got independent in which year?",
+        "Pakistan got independent in which year?",
+        "Padma Vibhushan is the _____civilian award of India ?",
+        "Who is the first to receive a Nobel Prize in Physics ?",
+        "Which award is given to the best coach in sports and games ?",
+        "Which award is given to the best coach in sports and games ?",
+        "Which of the following Indian is NOT honoured with the Nobel Prize ?"
+    ],
+    "options": [
+        [
+            "A. Narmada",
+            "B. Mahanadi",
+            "C. Son",
+            "D. Netravati"
+        ],
+        [
+            "A. Kalidasa",
+            "B. Charak",
+            "C. Panini",
+            "D. Aryabhatt"
+        ],
+        [
+            "A. Zinc",
+            "B. Silver",
+            "C. Copper",
+            "D. Aluminum"
+        ],
+        [
+            "A. Yoga Sutra",
+            "B. Panchatantra",
+            "C. Brahma Sutra",
+            "D. Ayurveda"
+        ],
+        [
+            "A. Chandigarh",
+            "B. Kolkata",
+            "C. Delhi",
+            "D. Bangalore"
+        ],
+        [
+            "A. Bihar",
+            "B. Assam",
+            "C. Kerla",
+            "D. Goa"
+        ],
+        [
+            "A. 7",
+            "B. 3",
+            "C. 5",
+            "D. 8"
+        ],
+        [
+            "A. Nile",
+            "B. Yangtze",
+            "C. Amazon",
+            "D. Ganga"
+        ],
+        [
+            "A. Mahatma Gandhi",
+            "B. Dr. B. R. Ambedkar",
+            "C. Dr. Rajendra Prasad",
+            "D. Jawaharlal Nehru"
+        ],
+        [
+            "A. Pablo Picasso",
+            "B. Vincent van Gogh",
+            "C. Leonardo da Vinci",
+            "D. Claude Monet"
+        ],
+        [
+            "A. Mount Kilimanjaro",
+            "B. Mount Everest",
+            "C. Mount McKinley (Denali)",
+            "D. Mount Godwin-Austen(K2)"
+        ],
+        [
+            "A. Venus",
+            "B. Mercury",
+            "C. Mars",
+            "D. Jupiter"
+        ],
+        [
+            "A. Buzz Aldrin",
+            "B. Neil Armstrong",
+            "C. Michael Collins",
+            "D. Yuri Gagarin"
+        ],
+        [
+            "A. Baltic sea",
+            "B. Black sea",
+            "C. Caribbean sea",
+            "D. Caspian sea"
+        ],
+        [
+            "A. Kinnaur",
+            "B. Ladakh",
+            "C. Nepal",
+            "D. Tibet"
+        ],
+        [
+            "A. Upper Himalayas",
+            "B. Lower Himalayas",
+            "C. Outer Himalayas",
+            "D. Inner Himalayas"
+        ],
+        [
+            "A. Mars",
+            "B. Uranus",
+            "C. Venus",
+            "D. Earth"
+        ],
+        [
+            "A. Afghanistan",
+            "B. Bhutan",
+            "C. Nepal",
+            "D. Myanmar"
+        ],
+        [
+            "A. Lhotse",
+            "B. Mount Everest",
+            "C. Annapurna",
+            "D. Kamet"
+        ],
+        [
+            "A. Aristotle",
+            "B. Euclid",
+            "C. Pythagoras",
+            "D. Kepler"
+        ],
+        [
+            "A. Govind Ballabh Pant",
+            "B. Jawaharlal Nehru",
+            "C. Subhash Chandra Bose",
+            "D. Sardar Vallabhbhai Patel"
+        ],
+        [
+            "A. Mohinder Singh",
+            "B. Ajit Pal Singh",
+            "C. Joginder Singh",
+            "D. Milkha singh"
+        ],
+        [
+            "A. Param8000",
+            "B. Param80000",
+            "C. Param800",
+            "D. Param8"
+        ],
+        [
+            "A. Morarji Desai",
+            "B. Vallabhbhai Patel",
+            "C. Devi Lal",
+            "D. Charan Singh"
+        ],
+        [
+            "A. Atlantic and Pacific",
+            "B. Atlantic and Indian",
+            "C. Arctic and Pacific",
+            "D. Indian and Pacific"
+        ],
+        [
+            "A. Pluto",
+            "B. Mars",
+            "C. Mercury",
+            "D. Saturn"
+        ],
+        [
+            "A. 5",
+            "B. 7",
+            "C. 8",
+            "D. 6"
+        ],
+        [
+            "A. 1947",
+            "B. 1948",
+            "C. 1949",
+            "D. 1950"
+        ],
+        [
+            "A. 1947",
+            "B. 1948",
+            "C. 1949",
+            "D. 1950"
+        ],
+        [
+            "A. Highest",
+            "B. Second Highest",
+            "C. Third Highest",
+            "D. Fourth Highest"
+        ],
+        [
+            "A. Albert Einstein",
+            "B. Issac Newton",
+            "C. Marie Curie",
+            "D. Wilhem Konrad Roentgen"
+        ],
+        [
+            "A. Dhyan Chand award",
+            "B. Dronacharya award",
+            "C. Rajiv Gandhi Khel Ratna award",
+            "D. Arjuna award"
+        ],
+        [
+            "A. Dhyan Chand award",
+            "B. Dronacharya award",
+            "C. Rajiv Gandhi Khel Ratna award",
+            "D. Arjuna award"
+        ],
+        [
+            "A. Mahatma Gandhi",
+            "B. Kailash Satyarthi",
+            "C. Hargobind Khurana",
+            "D. Rabindranath Tagore"
+        ]
+    ],
+    "answer": [
+        1,
+        3,
+        2,
+        1,
+        1,
+        4,
+        3,
+        1,
+        2,
+        3,
+        4,
+        1,
+        1,
+        1,
+        4,
+        3,
+        2,
+        3,
+        4,
+        2,
+        4,
+        4,
+        1,
+        2,
+        1,
+        3,
+        4,
+        1,
+        1,
+        2,
+        4,
+        2,
+        2,
+        1
+    ],
+    "difficulty": [
+        "Medium",
+        "Hard",
+        "Medium",
+        "Medium",
+        "Easy",
+        "Easy",
+        "Easy",
+        "Easy",
+        "Easy",
+        "Medium",
+        "Medium",
+        "Medium",
+        "Hard",
+        "Hard",
+        "Medium",
+        "Hard",
+        "Medium",
+        "Easy",
+        "Medium",
+        "Hard",
+        "Easy",
+        "Easy",
+        "Hard",
+        "Hard",
+        "Hard",
+        "Hard",
+        "Hard",
+        "Medium",
+        "Easy",
+        "Hard",
+        "Hard",
+        "Easy",
+        "Medium",
+        "Hard"
+    ]
+}
